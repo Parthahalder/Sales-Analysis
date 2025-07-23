@@ -1,3 +1,4 @@
+--------------CONNECTION TO MYSQL SERVER AND DEPLOYING USING STREAMLIT WEBAPP---------------------
 import streamlit as st
 import pandas as pd
 import plotly.express as px
