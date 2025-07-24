@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 
 
 # Upload or load data
-df = pd.read_csv('sales_data_cleaned.csv')
+df = pd.read_excel('sales_data_cleaned.xlsx')
 # Connect to DB
 conn = mysql.connector.connect(
     host="localhost",
